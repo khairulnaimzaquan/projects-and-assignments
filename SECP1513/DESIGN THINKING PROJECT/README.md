@@ -4,4 +4,4 @@ As part of my SECP1513 assignment, me and my team were given a design thinking p
 This project had impacted my way of identifying problems, generating ideas, and designing solutions. It also encouraged me to find innovative solutions 
 that are needed in the real world. All the details of this project can be found in the report.
 
-The video of our design thinking proect can be found through the following link: https://youtu.be/MCw0H1BEBWI
+The video of our design thinking project can be found through the following link: https://youtu.be/MCw0H1BEBWI
