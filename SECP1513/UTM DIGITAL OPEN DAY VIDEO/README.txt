@@ -10,4 +10,4 @@ computer science.
 All in all, the event was informative and beneficial. It was a meaningful experience that encouraged me to continue improving my technological knowledge and skills. 
 I'm grateful for the opportunity and looking forward to learning more beyond the classroom.
 
-The video can be accessed through the following link:
+The video can be accessed through the following link: https://youtu.be/RK3Gra0Fryc
