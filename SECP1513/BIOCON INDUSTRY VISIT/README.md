@@ -6,4 +6,4 @@ how various machines and systems work together in a highly coordinated and contr
 of industrial processes and automation in a real manufacturing environment.
 
 The experience reflected greatly reflected my course of study, allowing me to relate theories learned in class with actual industy practices. It was an insightful opportunity that increased 
-my appreciation on technologies related to pharmaceutical industry. I would like to express my gratitude to Biocon for the warm hospitality and for sharing valuable insights throughout the visit
+my appreciation on technologies related to pharmaceutical industry. I would like to express my gratitude to Biocon for the warm hospitality and for sharing valuable insights throughout the visit.
