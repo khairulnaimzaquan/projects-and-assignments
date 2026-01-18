@@ -1,3 +1,7 @@
 🎨 PPG Industry Talk | 20 November 2025
 
-On 20th November 2025, I was given the opprtunity to attend an industry talk by PPG. PPG is a global painting and coating company that provides ideal solutions for architectural, performance, and industrial coating. Their aim is to meet customers' expectations with innovative paints and coatings. The talk was focused on how their IT department keeps the bussiness running. PPG also introduced how they operate globally by using data analytics, global infrastructure, and SAP. Throughout the session, I was given a clear view on how real-world systems operate, including the need to manage large datas, communicate accross countries, and handle complex problems. Finally, me and my team had created a poster to summarize the talk
+On 20th November 2025, I was given the opprtunity to attend an industry talk by PPG. PPG is a global painting and coating company that provides ideal solutions for 
+architectural, performance, and industrial coating. Their aim is to meet customers' expectations with innovative paints and coatings. The talk was focused on how their 
+IT department keeps the bussiness running. PPG also introduced how they operate globally by using data analytics, global infrastructure, and SAP. Throughout the session, 
+I was given a clear view on how real-world systems operate, including the need to manage large datas, communicate accross countries, and handle complex problems. Finally, 
+me and my team had created a poster to summarize the talk
