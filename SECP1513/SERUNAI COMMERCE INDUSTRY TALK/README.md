@@ -10,3 +10,5 @@ Artificial Intelligence (AI) support for better production rates.
 
 All in all, the talk was very inspirational and provided us with lots of knowledge in the field of computer science. It motivates me to 
 keep trying my best and gain as much knowledge as possible. Finally, we had written an academic report covering the contents of the talk.
+
+[VIEW REPORT](https://github.com/khairulnaimzaquan/projects-and-assignments/blob/main/SECP1513/SERUNAI%20COMMERCE%20INDUSTRY%20TALK/Assignment%203%20TIS.pdf)
