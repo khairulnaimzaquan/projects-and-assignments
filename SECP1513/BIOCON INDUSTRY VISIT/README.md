@@ -10,4 +10,4 @@ The experience greatly reflected my course of study, allowing me to relate theor
 insightful opportunity that increased my appreciation of technologies related to the pharmaceutical industry. I would like to express my gratitude 
 to Biocon for the warm hospitality and for sharing valuable insights throughout the visit.
 
-[View Newsletter](https://github.com/khairulnaimzaquan/projects-and-assignments/blob/main/SECP1513/BIOCON%20INDUSTRY%20VISIT/Industry%20Visit.pdf)
+[View Newsletter](file:///C:/Users/ASUS/Downloads/Industry%20Visit.pdf)
